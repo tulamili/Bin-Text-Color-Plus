@@ -1,6 +1,6 @@
-package Bin::Li ;
-our $VERSION = '0.050' ; 
-our $DATE = '2021-05-26T01:50+0900' ; 
+package Bin::Text::Color::Plus ;
+our $VERSION = '0.051' ; 
+our $DATE = '2021-05-26T02:10+0900' ; 
 
 =encoding utf8
 
